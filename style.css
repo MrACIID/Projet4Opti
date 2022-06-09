@@ -325,7 +325,7 @@ a:hover {
 .nav > li {
     float: left;
     margin-top: 4px;
-    font-size: 16px;
+    font-size: 16px;    
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
@@ -361,7 +361,6 @@ a:hover {
     position: relative;
     z-index: 2;
 }
-
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -777,7 +776,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #ffffff!important;
 }
 
 .btn-atomic-tangerine {
